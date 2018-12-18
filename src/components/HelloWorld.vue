@@ -27,8 +27,8 @@
 @import url(http://fonts.googleapis.com/earlyaccess/jejugothic.css);
 
 .marquee {
-  color:red;
-  background-color: black;
+  color:white;
+  background-color: rgba(0, 0, 0, 0.75);
   width:100%;
   height:120px;
   line-height:120px;
